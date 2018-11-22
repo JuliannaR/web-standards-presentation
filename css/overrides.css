@@ -30,6 +30,9 @@
     font-size: 200%;
 }
 
+.reveal .txt-sm {
+    font-size: 75%;
+}
 .reveal .list-unstyled {
 	padding-left: 0;
 	list-style: none;
